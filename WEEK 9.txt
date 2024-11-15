@@ -1,1 +1,1 @@
-https://github.com/MohamedAjmalH/project-9-House-Price-Prediction.git
+https://github.com/Mithzzx/project-10-heart-disease-prediction-main
